@@ -1,10 +1,10 @@
 A dialog system via adaptive seq2seq network
 ==========
 
-##main algorithm
+## main algorithm
 
 I'm lazy to describe it now。
-
+____________
 
 ##baseline
 
@@ -12,10 +12,10 @@ I'm lazy to describe it now。
 * seq2seq with attention
 * HRED
 * VHRED (not standard)
+______________
 
 
-
-##directory
+## directory
 
 * configs：configure files
 * models: model files
@@ -23,17 +23,17 @@ I'm lazy to describe it now。
 * utils: util files
 * dataloaders: data loader files (change according to different dataset)
 
+___________
 
-
-##dataset 
+## dataset 
 
 Please obtain dataset yourself and code a dataloader for it.
 
 I use cornell movie corpus and reconstruct it.
 
+____________
 
-
-##other
+## other
 
 The code is about my research and I only save it on github. So it is very rough and maybe difficult to understand. 
 
