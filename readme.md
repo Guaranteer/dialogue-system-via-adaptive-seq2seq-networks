@@ -3,7 +3,7 @@ A dialog system via adaptive seq2seq network
 
 ## main algorithm
 
-I'm lazy to describe it now。
+I'm lazy to describe it now.
 
 
 ## baseline
