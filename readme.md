@@ -1,6 +1,19 @@
 A dialog system via adaptive seq2seq network
 ==========
 
+## how to run
+
+Download a word2vec file by yourself and put it in word2vec folder.
+
+I use the GOOGLE NEWS  word2vec file which can be downloaded from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+
+Then you can run the code from trainers folder.
+
+For example, python trainer_HRED.py
+
+Of source, you need tensorflow >= 1.3 and some necessary python packet.
+
+
 ## main algorithm
 
 I'm lazy to describe it now.
